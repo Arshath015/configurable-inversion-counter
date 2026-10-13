@@ -96,3 +96,10 @@ All tests cover typical cases, edge conditions, and configuration validation.
 
 ## License
 MIT License
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
